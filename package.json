@@ -1,0 +1,14 @@
+{
+  "name": "practicefrp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "pulp --watch build -O -m Main -I test -t html/main.js"
+  },
+  "author": "KDK",
+  "license": "ISC"
+}
