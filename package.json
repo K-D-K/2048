@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "pulp --watch build -O -m Main -I test -t html/main.js"
+    "test": "pulp --watch build -O -m Main -I test -t html/main.js && open html/index.html"
   },
   "author": "KDK",
   "license": "ISC"
