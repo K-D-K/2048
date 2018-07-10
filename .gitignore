@@ -7,3 +7,6 @@
 /.psc*
 /.purs*
 /.psa*
+.DS_Store
+html/main.js
+package-lock.json
